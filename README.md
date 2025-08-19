@@ -17,7 +17,7 @@ Supports multiple unlocking methods: keypad password, face recognition, and remo
 
 ##  Project Structure
 ## Project Structure
-###
+```
 ESP32_Smart_lock/
 ├── esp32_SmartLock/                  # *Firmware for ESP32 (main controller)*
 │   ├── esp32_SmartLock.ino           # *Main program for ESP32*
@@ -35,4 +35,5 @@ ESP32_Smart_lock/
 ├── wiring_diagram.png                # *Circuit schematic*
 ├── demo_video.mp4                    # *Demo video of the project*
 └── README.md                         # *Project documentation*
-###
+```
+
