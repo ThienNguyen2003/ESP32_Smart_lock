@@ -16,7 +16,6 @@ Supports multiple unlocking methods: keypad password, face recognition, and remo
 - **Software**: Arduino IDE, ESP RainMaker
 
 ##  Project Structure
-## Project Structure
 ```
 ESP32_Smart_lock/
 ├── esp32_SmartLock/                  # *Firmware for ESP32 (main controller)*
@@ -32,8 +31,10 @@ ESP32_Smart_lock/
 │   ├── camera_index.h
 │   └── camera_pins.h
 │
-├── wiring_diagram.png                # *Circuit schematic*
-├── demo_video.mp4                    # *Demo video of the project*
+├── wiring_diagram.png                # *Circuit schematic*                    
 └── README.md                         # *Project documentation*
 ```
 
+## Demo 
+- ![Wiring diagram]
+- Link video demo
