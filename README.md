@@ -41,12 +41,19 @@ ESP32_Smart_lock/
 ## Authors & Contributions
 Our project was developed by a team of 3 members:
 - Nguyễn Văn Thiện (Team Leader)
--- Implemented full functionality on ESP32 main controller
--- Developed UART communication between ESP32 and ESP32-CAM
+
+   Implemented full functionality on ESP32 main controller
+
+    Developed UART communication between ESP32 and ESP32-CAM
 - Nguyễn Văn Thiên
--- Designed and implemented the system model and wiring
--- Assisted in hardware integration and debugging
+
+   Designed and implemented the system model and wiring
+
+   Assisted in hardware integration and debugging
 - Lê Phước Tuyền
--- Developed core functionalities on ESP32-CAM (camera streaming & face recognition)
--- Integrated web interface for camera monitoring
+
+   Developed core functionalities on ESP32-CAM (camera streaming & face recognition)
+
+   Integrated web interface for camera monitoring
+
 *All members contributed to documentation, final testing, and presentation.*
