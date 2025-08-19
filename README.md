@@ -36,6 +36,5 @@ ESP32_Smart_lock/
 ```
 
 ## Demo 
-- ![Wiring diagram](wiring_diagram.png)
 - <img src="wiring_diagram.png" alt="Wiring diagram" width="600">
 - [Link video demo](https://drive.google.com/file/d/1oJHZzMYBnG-6hOZiwn5H-vuJyqWJS26e/view)
